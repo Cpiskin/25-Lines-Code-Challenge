@@ -1,5 +1,3 @@
-# 25-Lines-Code-Challenge
-
 import java.util.Scanner; // Import the Scanner class
 
 public class GuessTheNumber {
